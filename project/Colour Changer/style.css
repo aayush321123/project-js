@@ -1,0 +1,38 @@
+.main{
+    background: white;
+}
+
+span {
+    display: block;
+  }
+
+#canvas {
+    height: 100%;
+    width: 100%;
+    text-align: center;
+}
+.color{
+    display: flex;
+}
+#Green{
+    
+    background: Green;
+}
+#Red{
+    width: 100px;
+    height: 100px;
+    border: solid black 2px;
+    background: red;
+}
+#Blue{
+    width: 100px;
+    height: 100px;
+    border: solid black 2px;
+    background: blue;
+}
+#Purple{
+    width: 100px;
+    height: 100px;
+    border: solid black 2px;
+    background: purple;
+}
